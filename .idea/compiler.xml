@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="automation-web-selenium-java" />
         <module name="Amazon_automation" />
+        <module name="amazonproject" />
       </profile>
     </annotationProcessing>
   </component>
